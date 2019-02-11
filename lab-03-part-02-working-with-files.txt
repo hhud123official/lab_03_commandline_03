@@ -1,3 +1,4 @@
+
 Lab - Working With Files
 ==========
 Follow the instructions line-by-line.  
@@ -36,7 +37,12 @@ $ touch foo.txt
 $ ls
 Copy and paste the output below.
 ----------
-
+AMALogger20190109.log	Applications		MPLABXProjects		QLData			mtec1002
+AMALogger20190130.log	Desktop			Movies			Things			mtec1002-lab-03
+AMALogger20190204.log	Documents		Music			foo			pymel.log
+AMALogger20190206.log	Downloads		New Unity Project	foo.txt			xgen
+Adlm			KyleH-MTEC1003		Pictures		ipe.properties
+Adobe
 
 
 ==========
@@ -44,7 +50,8 @@ Copy and paste the output below.
 
 $ touch bar.txt
 ----------
-
+ent-v314-010:~ student$ touch bar.txt
+ent-v314-010:~ student$ 
 
 
 ==========
@@ -52,6 +59,13 @@ $ touch bar.txt
 
 Copy and paste the output below.
 ----------
+ent-v314-010:~ student$ ls
+AMALogger20190109.log	Applications		MPLABXProjects		QLData			isus
+AMALogger20190130.log	Desktop			Movies			Things			mtec1002
+AMALogger20190204.log	Documents		Music			bar.txt			mtec1002-lab-03
+AMALogger20190206.log	Downloads		New Unity Project	foo			pymel.log
+Adlm			KyleH-MTEC1003		Pictures		foo.txt			xgen
+Adobe			Library			Public			ipe.properties
 
 
 
