@@ -79,7 +79,8 @@ Write the command(s) that you used to download this file - as well as its output
 
 Write the command(s) that you used to do this - as well as its output - below:
 ----------
-
+ent-v314-010:~ student$  gzip mtec1002-lab-03
+gzip: mtec1002-lab-03 is a directory
 
 
 ==========
