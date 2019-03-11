@@ -75,7 +75,8 @@ Adobe			Library			Public			ipe.properties
 
 Write the command that you used to copy the file.  Additionally, copy and paste the output of your file listing below.
 ----------
-
+cp bar.txt baz.txt
+ls bar.txt baz.txt
 
 
 ==========
